@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwOB/T+5tjuPIkfpP9jpauD0k5WqWnsTLBU706qRNo4AT3RB9Eu1seZhucoMGlfitvtxiAKAGKSPpKW3y3UphQ==",
+  "success": true,
+  "projectFilePath": "/Users/cyber/401N/aspdotnet-webapps/02-logic-conditionals/PasswordChecker/PasswordChecker.csproj",
+  "expectedPackageFiles": [
+    "/Users/cyber/.nuget/packages/microsoft.netcore.app/2.2.0/microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "/Users/cyber/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.0/microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "/Users/cyber/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.0/microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "/Users/cyber/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.0/microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "/Users/cyber/.nuget/packages/microsoft.netcore.platforms/2.2.0/microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "/Users/cyber/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/Users/cyber/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
