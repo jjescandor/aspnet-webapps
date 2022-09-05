@@ -1,4 +1,54 @@
-﻿<Properties StartupConfiguration="{C363643C-A298-499D-9F35-2B806C10A120}|Default">
+﻿<Properties StartupConfiguration="{0F211D2B-8F03-419C-AE93-D38A6353673E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/Pages/Index.cshtml">
+    <Files>
+      <File FileName="TestApp/Areas/Identity/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="TestApp/Pages/Shared/_Layout.cshtml" Line="30" Column="19" />
+      <File FileName="TestApp/Pages/Shared/_LoginPartial.cshtml" Line="1" Column="1" />
+      <File FileName="TestApp/Pages/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="TestApp/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="TestApp/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="TestApp/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="TestApp/Pages/Index.cshtml" Line="8" Column="34" />
+      <File FileName="TestApp/Pages/Index.cshtml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApp" expanded="True">
+            <Node name="TestApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TestApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestApp PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>

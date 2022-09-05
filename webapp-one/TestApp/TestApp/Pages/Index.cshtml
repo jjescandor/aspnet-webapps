@@ -4,7 +4,36 @@
     ViewData["Title"] = "Home page";
 }
 
+@{
+    string name = "JJ";
+    int age = 30;
+    string stopLight = "black";
+    
+}
+
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
+    <h1>Hey there! My Name is:</h1>
+    <h1>@name</h1>
+    <h1>I am @age years old </h1>
+    <br />
+    <h4 style="color:blue;">Results from your if statement:</h4>
+    @if (stopLight == "green")
+    {
+        <h5>The stoplight is green, go!</h5>
+    }
+    else if (stopLight == "red")
+    {
+        <h5>The stoplight is red, stop!</h5>
+    }
+    else if (stopLight == "yellow")
+    {
+        <h5>The stoplight is yellow, slow down!</h5>
+    }
+    else
+    {
+        <h5>That stoplight doesn't exist!</h5>
+    }
+
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>

@@ -2,6 +2,21 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-TestApp-7C5E3AF9-25D2-49E4-B278-8BC5E159CDDA</UserSecretsId>
+    <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.26" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.26" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.26" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.26" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.26" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.26" />
+  </ItemGroup>
 
 </Project>
