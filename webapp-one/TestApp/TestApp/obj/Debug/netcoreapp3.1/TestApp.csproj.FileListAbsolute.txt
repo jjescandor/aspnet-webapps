@@ -387,3 +387,4 @@
 /Users/cyber/401N/aspdotnet-webapps/webapp-one/TestApp/TestApp/obj/Debug/netcoreapp3.1/TestApp.pdb
 /Users/cyber/401N/aspdotnet-webapps/webapp-one/TestApp/TestApp/obj/Debug/netcoreapp3.1/TestApp.genruntimeconfig.cache
 /Users/cyber/401N/aspdotnet-webapps/webapp-one/TestApp/TestApp/bin/Debug/netcoreapp3.1/TestApp
+/Users/cyber/401N/aspdotnet-webapps/webapp-one/TestApp/TestApp/obj/Debug/netcoreapp3.1/Razor/Pages/Profile.cshtml.g.cs
